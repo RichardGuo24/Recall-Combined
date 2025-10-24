@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <h1>Recall</h1>
-  <p>AI-Powered Voice Receptionist for Legal Offices</p>
+  <p>AI-Powered Voice Receptionist for Small Businesses</p>
 </div>
 
 ---
@@ -36,10 +36,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Recall is an intelligent voice AI system designed to automate receptionist duties for legal offices. It combines state-of-the-art voice recognition, natural language processing, and calendar integration to provide a professional, 24/7 virtual receptionist experience.
+Recall is an intelligent voice AI system designed to automate receptionist duties for small businesses (local barber shops, small legal offices, construction companies). It combines state-of-the-art voice recognition, natural language processing, and calendar integration to provide a professional, 24/7 virtual receptionist experience. The demo provided with this repository acts as the receptionist of a small legal office.
 
 **Problem Solved:**
-Legal offices spend significant time answering phones, scheduling appointments, taking messages, and making reminder calls to clients. This is expensive, time-consuming, and prone to human error. Recall automates these tasks while maintaining professionalism and accuracy.
+Small businesses often struggle to handle phone calls, schedule appointments, and send reminders because they lack the staff or time to manage these tasks. Without a dedicated receptionist, missed calls quickly become missed opportunities, which can lead to significant revenue loss.
+
+Recall automates these interactions with accuracy and a professional tone. It answers calls, books appointments, and follows up with clients, allowing business owners to focus on running their operations instead of managing phones.
+
+
 
 **Solution:**
 Recall deploys two complementary AI agents:
@@ -49,7 +53,8 @@ Recall deploys two complementary AI agents:
 Both agents integrate seamlessly with Google Calendar for scheduling and Supabase for call history tracking, creating a complete receptionist automation solution.
 
 **Live Demo:**
-https://recall.example.com (Deploy URL here)
+
+Call: 929-717-3949 to book a meeting with the firm. Then navigate to the dashboard through the landing page site [here](https://recall-fe-xi.vercel.app/) to see what it looks like from the business stand point.
 
 ---
 
@@ -664,7 +669,7 @@ Contributions are welcome! This project is meant to be improved and extended. He
 
 **Project Links:**
 - Repository: [Recall-Combined](https://github.com/RichardGuo24/Recall-Combined)
-- Live Demo: [recall.example.com](https://recall.example.com)
+- Live Demo: [https://recall-fe-xi.vercel.app](https://recall-fe-xi.vercel.app/)
 - Issues/Feedback: [GitHub Issues](https://github.com/RichardGuo24/Recall-Combined/issues)
 
 ---
@@ -672,7 +677,7 @@ Contributions are welcome! This project is meant to be improved and extended. He
 ## Acknowledgments
 
 Special thanks to:
-- **Jane Street** team for initial guidance and technical mentorship on building the first prototype
+- **MY AMAZING HACKATHON TEAM*
 - **LiveKit** for providing excellent real-time voice infrastructure
 - **OpenAI, Deepgram, and Cartesia** for state-of-the-art AI models
 - **DivHacks 2025** for the hackathon platform and community support
